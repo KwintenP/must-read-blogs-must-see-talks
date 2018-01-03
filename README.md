@@ -1,2 +1,9 @@
 # must-read-blogs-must-see-talks
 Just a simple git repo to keep track of super interesting blogs/talks 
+
+## Blogs
+
+### ES6
+| Topic         | blog |
+| ------------- |:-------------:|
+| Tagged template literal | https://mxstbr.blog/2016/11/styled-components-magic-explained/ |
