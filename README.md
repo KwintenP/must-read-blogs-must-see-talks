@@ -7,3 +7,10 @@ Just a simple git repo to keep track of super interesting blogs/talks
 | Topic         | blog |
 | ------------- |:-------------:|
 | Tagged template literal | https://mxstbr.blog/2016/11/styled-components-magic-explained/ |
+
+## Videos
+
+### Javascript
+| Topic         | Video |
+| ------------- |:-------------:|
+| Event loop | https://www.youtube.com/watch?v=8aGhZQkoFbQ |
