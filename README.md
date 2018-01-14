@@ -14,3 +14,4 @@ Just a simple git repo to keep track of super interesting blogs/talks
 | Topic         | Video |
 | ------------- |:-------------:|
 | Event loop | https://www.youtube.com/watch?v=8aGhZQkoFbQ |
+| Lets tree-shake it | https://www.youtube.com/watch?v=75ObMlqrhFY |
